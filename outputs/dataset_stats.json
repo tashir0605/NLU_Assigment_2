@@ -1,0 +1,9 @@
+{
+  "count": 1000,
+  "unique_names": 1000,
+  "avg_len": 6.08,
+  "median_len": 6.0,
+  "min_len": 2,
+  "max_len": 14,
+  "unique_chars": 26
+}
