@@ -1,0 +1,23 @@
+{
+  "vanilla_rnn": {
+    "parameter_count": 9021,
+    "hidden_size_used": 64,
+    "final_train_loss": 1.8361946221055656,
+    "best_val_loss": 1.9198544323444366,
+    "best_epoch": 18
+  },
+  "blstm": {
+    "parameter_count": 8743,
+    "hidden_size_used": 17,
+    "final_train_loss": 0.26782873632579013,
+    "best_val_loss": 0.21876546368002892,
+    "best_epoch": 20
+  },
+  "attention_rnn": {
+    "parameter_count": 9149,
+    "hidden_size_used": 32,
+    "final_train_loss": 2.017116743942787,
+    "best_val_loss": 1.9790049493312836,
+    "best_epoch": 20
+  }
+}
