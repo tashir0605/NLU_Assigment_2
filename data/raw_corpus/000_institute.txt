@@ -1,0 +1,6 @@
+# URL: sample://about
+# TYPE: institute
+# LABEL: institute
+# LENGTH: 1212 chars
+# ──────────────────────────────────────────────────────────────────────
+The Indian Institute of Technology Jodhpur was established in 2008 as one of the newer IITs under the mentorship of IIT Kanpur. Situated in the Karwar range of the Thar desert, the institute occupies roughly 852 acres of land and has grown rapidly into a vibrant hub for higher education and research. IIT Jodhpur offers undergraduate, postgraduate, and doctoral programmes across engineering, sciences, humanities, and management. The vision of the institute is to emerge as a leader in technology and innovation while serving the needs of society. Strategic partnerships with global universities and national laboratories strengthen the research ecosystem. The campus infrastructure includes smart classrooms, high‑performance computing clusters, a central library with digital archives, and modern sports facilities. The institute actively promotes interdisciplinary research by encouraging collaboration between departments and establishing centres of excellence in areas such as artificial intelligence, renewable energy, and digital humanities. Faculty recruitment drives attract scholars from premier institutions worldwide, ensuring a diverse and intellectually stimulating environment for every student.

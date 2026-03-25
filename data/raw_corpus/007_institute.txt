@@ -1,0 +1,6 @@
+# URL: sample://campus_life
+# TYPE: institute
+# LABEL: institute
+# LENGTH: 1189 chars
+# ──────────────────────────────────────────────────────────────────────
+Campus life at IIT Jodhpur is defined by a close‑knit community that lives, studies, and creates together. Every enrolled student is allotted a room in one of the on‑campus hostels. The hostel experience fosters independence, peer learning, and lifelong friendships. Each hostel is managed by a warden — usually a senior professor — and a student hostel council. Mess services in each hostel provide breakfast, lunch, and dinner with options for vegetarian and non‑vegetarian meals. Common rooms in every hostel are equipped with televisions, table tennis tables, and informal study spaces. Beyond the hostel, the campus offers a swimming pool, basketball courts, a cricket ground, and a well‑equipped gymnasium. Cultural life thrives through clubs dedicated to music, dance, drama, photography, and literary arts. Annual festivals — Ignus for culture, Varchas for sports, and Prometeo for technology — draw participants from institutes across India. Mental health and wellness services are available through a counselling centre staffed by trained professionals. The hostel environment, combined with diverse extra‑curriculars, ensures that student life extends well beyond the classroom.

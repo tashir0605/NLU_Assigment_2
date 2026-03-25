@@ -1,0 +1,6 @@
+# URL: sample://admissions
+# TYPE: institute
+# LABEL: institute
+# LENGTH: 1182 chars
+# ──────────────────────────────────────────────────────────────────────
+Admissions to IIT Jodhpur are governed by national‑level examinations and centralized counselling. UG BTech aspirants must clear the JEE Advanced exam and participate in JoSAA counselling for seat allocation. PG MTech and MSc students are selected on the basis of their GATE or JAM score along with an interview where applicable. PhD applicants submit a research proposal and appear for a written test followed by a personal interview arranged by the department. International students may apply under the Study in India programme or bilateral agreements. Upon selection, each admitted student completes document verification, pays the semester fee, and receives a unique roll number. An orientation week acquaints new entrants with the academic calendar, hostel rules, library resources, and campus facilities. Faculty advisors are assigned to guide first‑year UG students through course selection. PG and PhD students meet their research supervisor within the first month. Scholarship schemes funded by MHRD and private donors partially or fully cover tuition for economically disadvantaged students. Merit‑cum‑means scholarships are also available for top‑performing UG students.

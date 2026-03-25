@@ -1,0 +1,6 @@
+# URL: sample://pg_mtech
+# TYPE: programme
+# LABEL: programme
+# LENGTH: 1190 chars
+# ──────────────────────────────────────────────────────────────────────
+Postgraduate education at IIT Jodhpur comprises MTech and MSc programmes that attract students who have cleared the GATE examination or hold equivalent qualifications. The two‑year PG curriculum blends advanced coursework with a substantial research thesis. PG students in the MTech programme choose specializations aligned with departmental strengths — for instance, Data and Computational Sciences in CSE, VLSI Design in Electrical Engineering, or Structural Engineering in Civil Engineering. MSc programmes are offered in Physics, Chemistry, and Mathematics, providing a rigorous foundation in the pure and applied sciences. Every PG student is assigned a thesis supervisor, typically a professor or associate professor, who mentors them through literature surveys, experimentation, and manuscript preparation. PG students also serve as teaching assistants, gaining pedagogical experience while supporting UG courses and laboratory sessions. Comprehensive viva‑voce examinations and external reviews ensure that every PG thesis meets high academic standards. The PG degree equips graduates for roles in R&D organizations, the technology industry, and doctoral studies in India or abroad.
