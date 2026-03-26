@@ -1,7 +1,7 @@
 # CSL 7640: Natural Language Understanding — Assignment 2
 
-**Name:** Shivam Goyal  
-**Roll No:** B23CM1036
+**Name:** Tashir Ahmad  
+**Roll No:** B23ME1074
 
 This repository contains two end-to-end NLP implementations built from scratch:
 
